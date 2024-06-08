@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\scripturejournal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\scripturejournal\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\scripturejournal\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\scripturejournal\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|solutionrelative:pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\scripturejournal\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|solutionrelative:pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\scripturejournal\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|solutionrelative:pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\scripturejournal\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|solutionrelative:pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\scripturejournal\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\scripturejournal\\models\\scripture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|solutionrelative:models\\scripture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\scripturejournal\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|solutionrelative:pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\scripturejournal\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|solutionrelative:pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\scripturejournal\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|solutionrelative:pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\scripturejournal\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|solutionrelative:pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\scripturejournal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\scripturejournal\\data\\scripturejournalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|solutionrelative:data\\scripturejournalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\scripturejournal\\migrations\\20240608055523_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC330F8B-E9E2-4381-AE36-7B384945AB5C}|ScriptureJournal.csproj|solutionrelative:migrations\\20240608055523_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Details.cshtml",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Details.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T05:55:04.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T05:55:04.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-08T21:10:41.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T06:04:49.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T05:55:04.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T05:55:03.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T05:55:04.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAD4vx4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T05:55:05.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Scripture.cs",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Models\\Scripture.cs",
+              "RelativeDocumentMoniker": "Models\\Scripture.cs",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Models\\Scripture.cs",
+              "RelativeToolTip": "Models\\Scripture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:22:16.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240608055523_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Migrations\\20240608055523_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240608055523_Initial.cs",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Migrations\\20240608055523_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240608055523_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T05:55:23.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T05:55:04.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T05:55:04.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T05:55:04.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Pages\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T05:55:04.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T05:55:03.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScriptureJournalContext.cs",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Data\\ScriptureJournalContext.cs",
+              "RelativeDocumentMoniker": "Data\\ScriptureJournalContext.cs",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\ScriptureJournal\\Data\\ScriptureJournalContext.cs",
+              "RelativeToolTip": "Data\\ScriptureJournalContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T05:55:03.033Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

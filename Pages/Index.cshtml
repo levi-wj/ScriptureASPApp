@@ -1,0 +1,92 @@
+﻿@page "{searchString?}"
+@model ScriptureJournal.Pages.IndexModel
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+
+<p class="d-flex justify-content-between align-content-center mb-5">
+    <span class="fs-3">Journal Homepage</span>
+    <a asp-page="Create" class="btn btn-primary">New Note</a>
+</p>
+
+<div class="d-flex form-row justify-content-between gap-5">
+    <table class="table rounded-4">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.ScriptureList[0].Book)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ScriptureList[0].Reference)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ScriptureList[0].DateAdded)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ScriptureList[0].Note)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody class="rounded-4">
+            @foreach (var item in Model.ScriptureList)
+            {
+            <tr class="bg-light">
+                <td>
+                    @Html.DisplayFor(modelItem => item.Book)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Reference)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateAdded)
+                </td>
+                <td>
+                    @{
+                        string note = item.Note;
+                        if (note.Length > 70)
+                        {
+                            note = note.Substring(0, 70) + "...";
+                        }
+                    }
+                    @note
+                </td>
+                <td class="d-flex gap-2">
+                    <a class="btn btn-outline-secondary" asp-page="./Edit" asp-route-id="@item.Id">Edit</a>
+                    <a class="btn btn-outline-secondary" asp-page="./Details" asp-route-id="@item.Id">Details</a>
+                    <a class="btn btn-outline-danger" asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+            }
+        </tbod>
+    </table>
+
+    <form class="bg-secondary p-3 rounded-3 text-white">
+        <!-- Including sr-only class for accessability -->
+        <label for="bookSearch" class="sr-only">Filter book:</label>
+        <select id="bookSearch" class="form-control mb-1" asp-for="Book" asp-items="Model.Books">
+            <option value="">All Books</option>
+        </select>
+
+        <label for="noteSearch" class="sr-only">Filter notes:</label>
+        <input id="noteSearch" type="text" asp-for="SearchString" placeholder="Note keywords" class="form-control mb-3" />
+
+        <label class="form-label">Sort by:</label>
+        <div class="form-check">
+            <input class="form-check-input" asp-for="SortBy" type="radio" name="sortBy" value="date" id="sortByDate">
+            <label class="form-check-label" for="sortByDate">
+                Date
+            </label>
+        </div>
+        <div class="form-check mb-3">
+            <input class="form-check-input" asp-for="SortBy" type="radio" value="book" name="sortBy" id="sortByBook">
+            <label class="form-check-label" for="sortByBook">
+                Book
+            </label>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Apply</button>
+    </form>
+</div>
